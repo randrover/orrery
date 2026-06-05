@@ -1,9 +1,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://randrover.github.io/orrery/</loc>
-    <lastmod>2026-06-05T14:37:31.000Z</lastmod>
+    <lastmod>2026-06-05T15:52:58.000Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/log</loc>
-    <lastmod>2026-06-05T14:37:31.000Z</lastmod>
+    <lastmod>2026-06-05T15:52:58.000Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/wiki/concepts/3d-genome-and-disease</loc>
     <lastmod>2026-06-03T23:00:00.000Z</lastmod>
@@ -38,11 +38,20 @@
     <loc>https://randrover.github.io/orrery/wiki/concepts/cis-regulatory-elements</loc>
     <lastmod>2026-06-03T23:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://randrover.github.io/orrery/wiki/concepts/cis-regulatory-grammar</loc>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://randrover.github.io/orrery/wiki/concepts/cotranscriptional-splicing</loc>
     <lastmod>2026-06-03T23:00:00.000Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/wiki/concepts/data-quality-and-bias</loc>
     <lastmod>2026-06-03T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/wiki/concepts/digital-twins</loc>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/wiki/concepts/dna-language-models</loc>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/wiki/concepts/dual-use-risk</loc>
     <lastmod>2026-06-03T23:00:00.000Z</lastmod>
@@ -56,17 +65,53 @@
     <loc>https://randrover.github.io/orrery/wiki/concepts/genome-architecture</loc>
     <lastmod>2026-06-03T23:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://randrover.github.io/orrery/wiki/concepts/immune-recognition</loc>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/wiki/concepts/knowledge-graphs</loc>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/wiki/concepts/massively-parallel-reporter-assay</loc>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/wiki/concepts/model-interpretability</loc>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/wiki/concepts/multimodal-learning</loc>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/wiki/concepts/mutation-effect-prediction</loc>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/wiki/concepts/optimal-transport</loc>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://randrover.github.io/orrery/wiki/concepts/percent-spliced-in</loc>
     <lastmod>2026-06-04T23:00:00.000Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/wiki/concepts/post-transcriptional-splicing</loc>
     <lastmod>2026-06-03T23:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://randrover.github.io/orrery/wiki/concepts/protein-language-models</loc>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://randrover.github.io/orrery/wiki/concepts/rna-binding-proteins</loc>
     <lastmod>2026-06-03T23:00:00.000Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/wiki/concepts/rna-structure-and-splicing</loc>
     <lastmod>2026-06-03T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/wiki/concepts/rna-structure-prediction</loc>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/wiki/concepts/single-cell-foundation-models</loc>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/wiki/concepts/single-cell-perturbation-modeling</loc>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/wiki/concepts/single-cell-proteomics</loc>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/wiki/concepts/splice-sites</loc>
     <lastmod>2026-06-03T23:00:00.000Z</lastmod>
@@ -104,8 +149,17 @@
     <loc>https://randrover.github.io/orrery/wiki/concepts/topologically-associating-domains</loc>
     <lastmod>2026-06-03T23:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://randrover.github.io/orrery/wiki/entities/cmonge</loc>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/wiki/entities/crossdna</loc>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://randrover.github.io/orrery/wiki/entities/dscam</loc>
     <lastmod>2026-06-03T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/wiki/entities/dt-lung</loc>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/wiki/entities/g-quadruplex</loc>
     <lastmod>2026-06-03T23:00:00.000Z</lastmod>
@@ -122,6 +176,9 @@
     <loc>https://randrover.github.io/orrery/wiki/entities/sf3b1</loc>
     <lastmod>2026-06-03T23:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://randrover.github.io/orrery/wiki/entities/signature-tool</loc>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://randrover.github.io/orrery/wiki/entities/smn2</loc>
     <lastmod>2026-06-03T23:00:00.000Z</lastmod>
   </url><url>
@@ -131,8 +188,17 @@
     <loc>https://randrover.github.io/orrery/wiki/entities/srsf1</loc>
     <lastmod>2026-06-03T23:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://randrover.github.io/orrery/wiki/entities/trrosettarna2</loc>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/wiki/entities/txpert</loc>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://randrover.github.io/orrery/wiki/entities/u2af1</loc>
     <lastmod>2026-06-03T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/wiki/entities/uniair</loc>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/wiki/overview</loc>
     <lastmod>2026-06-04T23:00:00.000Z</lastmod>
@@ -146,8 +212,20 @@
     <loc>https://randrover.github.io/orrery/wiki/sources/choquet-2025-the-regulation-and-function-of</loc>
     <lastmod>2026-06-03T23:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://randrover.github.io/orrery/wiki/sources/driessen-2026-conditional-monge-gap-enables-generalizable</loc>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://randrover.github.io/orrery/wiki/sources/editorial-2025-rna-splicing-a-central-layer</loc>
     <lastmod>2026-06-03T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/wiki/sources/gold-2026-scoring-gene-importance-by-interpreting</loc>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/wiki/sources/groover-2026-mapping-cis-regulatory-mutations-at</loc>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/wiki/sources/han-2026-generalizable-mutation-effect-prediction-across</loc>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/wiki/sources/hassan-2026-a-safety-centric-perspective-on-innovation</loc>
     <lastmod>2026-06-03T23:00:00.000Z</lastmod>
@@ -170,8 +248,23 @@
     <loc>https://randrover.github.io/orrery/wiki/sources/sousa-luis-2026-tools-and-tactics-for-studying</loc>
     <lastmod>2026-06-03T23:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://randrover.github.io/orrery/wiki/sources/wang-2026-predicting-rna-3d-structure</loc>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/wiki/sources/wenkel-2026-txpert-using-multiple-knowledge</loc>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://randrover.github.io/orrery/wiki/sources/wright-2022-alternative-splicing-as-a-source</loc>
     <lastmod>2026-06-03T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/wiki/sources/wu-2026-single-cell-proteomic-landscape-of</loc>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/wiki/sources/yang-2026-explicit-dynamic-cross-strand-interactions</loc>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/wiki/sources/zhou-2026-digital-twins-of-ex</loc>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/wiki/syntheses/alternative-splicing-functionality-debate</loc>
     <lastmod>2026-06-03T23:00:00.000Z</lastmod>
@@ -183,140 +276,224 @@
     <lastmod>2026-06-03T23:00:00.000Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/wiki/topics/artificial-intelligence</loc>
-    <lastmod>2026-06-03T23:00:00.000Z</lastmod>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/wiki/topics/functional-single-cell-genomics</loc>
+    <lastmod>2026-06-04T23:00:00.000Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/wiki/topics/splicing</loc>
     <lastmod>2026-06-04T23:00:00.000Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/untitled.canvas</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/wiki/concepts/</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/wiki/</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/wiki/entities/</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/wiki/sources/</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/wiki/syntheses/</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/wiki/topics/</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/tags/3d-genome</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/tags/artificial-intelligence</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/tags/splicing</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
   </url><url>
-    <loc>https://randrover.github.io/orrery/tags/splicing-methods</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
+    <loc>https://randrover.github.io/orrery/tags/functional-single-cell-genomics</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
   </url><url>
-    <loc>https://randrover.github.io/orrery/tags/rna-structure-and-splicing</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
+    <loc>https://randrover.github.io/orrery/tags/gene-regulation</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
   </url><url>
-    <loc>https://randrover.github.io/orrery/tags/alternative-splicing</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
+    <loc>https://randrover.github.io/orrery/tags/cis-regulatory-grammar</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
   </url><url>
-    <loc>https://randrover.github.io/orrery/tags/splicing-factors</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
+    <loc>https://randrover.github.io/orrery/tags/digital-twins</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
   </url><url>
-    <loc>https://randrover.github.io/orrery/tags/splicing-and-disease</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
-  </url><url>
-    <loc>https://randrover.github.io/orrery/tags/splicing-code</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
-  </url><url>
-    <loc>https://randrover.github.io/orrery/tags/splice-sites</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
-  </url><url>
-    <loc>https://randrover.github.io/orrery/tags/splicing-therapeutics</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
-  </url><url>
-    <loc>https://randrover.github.io/orrery/tags/3d-genome-evolution</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
-  </url><url>
-    <loc>https://randrover.github.io/orrery/tags/genome-architecture</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
-  </url><url>
-    <loc>https://randrover.github.io/orrery/tags/chromatin-compartments</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
-  </url><url>
-    <loc>https://randrover.github.io/orrery/tags/topologically-associating-domains</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
-  </url><url>
-    <loc>https://randrover.github.io/orrery/tags/chromatin-loops</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
-  </url><url>
-    <loc>https://randrover.github.io/orrery/tags/cis-regulatory-elements</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
-  </url><url>
-    <loc>https://randrover.github.io/orrery/tags/post-transcriptional-splicing</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
-  </url><url>
-    <loc>https://randrover.github.io/orrery/tags/cotranscriptional-splicing</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
-  </url><url>
-    <loc>https://randrover.github.io/orrery/tags/splicing-and-chromatin</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
-  </url><url>
-    <loc>https://randrover.github.io/orrery/tags/editorial</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
-  </url><url>
-    <loc>https://randrover.github.io/orrery/tags/ai-safety</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
-  </url><url>
-    <loc>https://randrover.github.io/orrery/tags/ai-in-genomics</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
+    <loc>https://randrover.github.io/orrery/tags/translational</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/tags/foundation-models</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/dna-language-models</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/immune-recognition</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/knowledge-graphs</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/functional-genomics</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/massively-parallel-reporter-assay</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/model-interpretability</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/multimodal-learning</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/mutation-effect-prediction</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/optimal-transport</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/splicing-methods</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/protein-language-models</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/rna-structure-and-splicing</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/rna-structure-prediction</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/structural-biology</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/single-cell-foundation-models</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/single-cell-perturbation-modeling</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/single-cell-proteomics</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/alternative-splicing</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/splicing-factors</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/splicing-and-disease</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/splicing-code</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/splice-sites</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/splicing-therapeutics</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/3d-genome-evolution</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/genome-architecture</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/chromatin-compartments</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/topologically-associating-domains</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/chromatin-loops</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/cis-regulatory-elements</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/post-transcriptional-splicing</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/cotranscriptional-splicing</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/splicing-and-chromatin</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/drug-discovery</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/editorial</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/ai-in-genomics</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/plant</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/ai-safety</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/tags/generative-ai</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/tags/dual-use-risk</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/tags/biosecurity</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/tags/ai-governance</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/tags/data-quality-and-bias</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/tags/spliceosome</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/tags/splicing-and-evolution</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/tags/g-quadruplex</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/tags/cancer</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/tags/splicing-regulatory-elements</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/deep-learning</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/single-cell-mass-spectrometry</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/neuroscience</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/multimodal</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
+  </url><url>
+    <loc>https://randrover.github.io/orrery/tags/ex-vivo-organ-perfusion</loc>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/tags/query</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/tags/contradiction-resolution</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
   </url><url>
     <loc>https://randrover.github.io/orrery/tags/</loc>
-    <lastmod>2026-06-05T14:39:28.927Z</lastmod>
+    <lastmod>2026-06-05T15:53:22.122Z</lastmod>
   </url></urlset>
