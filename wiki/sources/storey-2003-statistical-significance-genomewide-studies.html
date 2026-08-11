@@ -4,7 +4,7 @@
 <h2 id="key-takeaways">Key takeaways<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#key-takeaways" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
 <ul>
 <li>Genomewide studies test thousands of features (genes, nucleotide words, SNP markers) against a null hypothesis; traditional per-test p-value cutoffs and familywise-error control (e.g. Bonferroni) are either too liberal or, in the many-true-alternatives setting, far too conservative.</li>
-<li>The paper reframes significance around the false discovery rate (FDR) — the expected proportion of truly null features among those called significant — as a sensible balance between true and false positives, a concept also central to the related storey-2002 and storey-2003 work in this batch.</li>
+<li>The paper reframes significance around the false discovery rate (FDR) — the expected proportion of truly null features among those called significant — as a sensible balance between true and false positives, a concept also central to the related storey-2002 and storey-2003 work.</li>
 <li>The q value assigns each feature its own FDR-based significance: it is the minimum FDR (technically minimum positive FDR) at which that feature can be called significant. Thresholding q values at level alpha yields a set of significant features whose expected false-positive proportion is alpha.</li>
 <li>Crucially the q value is NOT the probability a given feature is a false positive; it is the expected proportion of false positives among all features as or more extreme.</li>
 <li>A fully automated estimator computes q values from a list of p values, plus an estimate of pi-0 (proportion of truly null features) using a natural cubic spline fit of pi-0(lambda) evaluated at lambda approaching 1. The QVALUE software implements this.</li>
@@ -20,7 +20,7 @@
 </ul>
 <h2 id="connections">Connections<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#connections" class="internal internal-link"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
 <ul>
-<li>Directly extends the false-discovery-rate and q-value framework developed in the companion storey-2002 and storey-2003 papers ingested in this batch.</li>
+<li>Directly extends the false-discovery-rate and q-value framework developed in the companion storey-2002 and storey-2003 papers.</li>
 <li>Provides a multiple-testing significance measure applicable to genome-wide-association-study scans and to splicing-qtl / eqtl mapping, where thousands or millions of feature-marker p values must be thresholded.</li>
 <li>Relevant to quantitative-genetics and biometrical-genetics workflows that screen many loci or features simultaneously.</li>
 </ul>
